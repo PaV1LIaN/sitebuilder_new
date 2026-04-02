@@ -2400,12 +2400,5 @@ BX.ready(function () {
   loadBlocks();
 });
 </script>
-<script src="/local/sitebuilder/assets/js/editor.core.js?v=1"></script>
-<script src="/local/sitebuilder/assets/js/editor.api.js?v=1"></script>
-<script src="/local/sitebuilder/assets/js/editor.sections.js?v=1"></script>
-<script src="/local/sitebuilder/assets/js/editor.dnd.js?v=1"></script>
-<script src="/local/sitebuilder/assets/js/editor.blocks.js?v=1"></script>
-<script src="/local/sitebuilder/assets/js/editor.bridge.js?v=1"></script>
-<script src="/local/sitebuilder/assets/js/editor.init.js?v=1"></script>
 </body>
 </html>
